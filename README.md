@@ -1,0 +1,2 @@
+# PartySchoolManage
+PartySchoolManage
